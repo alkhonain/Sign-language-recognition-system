@@ -16,5 +16,5 @@ The dataset that we’re going to use is the “Arabic Alphabets Sign Language D
 ## Model
 
 <br><br><p align="center">
-    <img src="model.png" alt="Model training and validiation acc" style="height: 500px; width:500px;"/>
+    <img src="model.png" alt="Model training and validiation acc" style="height: 500px; width:900px;"/>
 </p><br><br>
