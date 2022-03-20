@@ -13,3 +13,8 @@ People with hearing disability face many challenges when going out alone in publ
 The dataset that we’re going to use is the “Arabic Alphabets Sign Language Dataset (ArASL)” which consists of 54,049 images of Arabic sign language gestures demonstrated by more than 40 people. The dataset is available on Mendeley data website. We will implement a neural network model which uses the given dataset to compare the user’s gestures with the dataset to correctly evaluate if the demonstrated gesture done by the user is correct.
 
 
+## Model
+
+<br><br><p align="center">
+    <img src="model.png" alt="Model training and validiation acc" style="height: 500px; width:500px;"/>
+</p><br><br>
