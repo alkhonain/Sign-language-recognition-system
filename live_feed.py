@@ -11,7 +11,7 @@ def get_class(class_id):
         return df.loc[df['id'] == class_id, 'Class'].values[0]
 
 
-model = load_model('Model/model.h5')
+model = load_model('Model/CXR.h5')
 
 IMAGE_SIZE = 64
 CROP_SIZE = 400
