@@ -24,10 +24,8 @@ while(True):
     
 
     cropped_image = frame[0:CROP_SIZE, 0:CROP_SIZE]
-    # Convert to grayscale
-    cropped_image=cv2.cvtColor(cropped_image, cv2.COLOR_BGR2GRAY)
     resized_frame = cv2.resize(cropped_image, (IMAGE_SIZE, IMAGE_SIZE))
-    reshaped_frame = (np.array(resized_frame)).reshape((1, IMAGE_SIZE, IMAGE_SIZE, 1))
+    reshaped_frame = (np.array(resized_frame)).reshape((1, IMAGE_SIZE, IMAGE_SIZE, 3))
     frame_for_model = reshaped_frame/255
     
     prediction = np.array(model.predict(frame_for_model))
