@@ -25,7 +25,7 @@ We implemented a neural network model which uses the given dataset to compare th
 
 ### System Digfram 
 <br><br><p align="center">
-    <img src="images/system_digram.jpg" alt="workflow" style="height: 900; width:500px;"/>
+    <img src="images/system_digram.jpg" alt="workflow" style="height: 500px; width:300px;"/>
 </p><br><br>
 
 
