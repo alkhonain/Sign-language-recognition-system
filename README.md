@@ -5,7 +5,7 @@ The main goal of this project is to design, implement and evaluate a model that 
 </p><br><br>
 
 ## Results
-
+<iframe src="images/model_video.mp4" alt="model video" style="height: 500px; width:500px;" allow="autoplay; encrypted-media" allowfullscreen><iframe/>
 
 ## Abstract 
 People with hearing disability face many challenges when going out alone in public communication can be very hard and time-consuming. Even though a lot of efforts were made to improve this problem, there is still more to be done. In this project, we propose a model that can recognize and translate sign language letters in real-time by using a camera and a screen to display the translation. Creating this model and making it public can allow more room for improvement and enable developers to implement it in their applications or hardware devices which opens up room for more ideas that were previously not possible. In return, this enhances the quality of life for people with hearing impairment.
