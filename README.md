@@ -5,9 +5,11 @@ The main goal of this project is to design, implement and evaluate a model that 
 </p><br><br>
 
 ## Results
+<br><br><p align="center">
+    <vid src="images/model_video.mp4" alt="model video"/>
+</p><br><br>
 
 
-Uploading model_video.mp4…
 
 
 
