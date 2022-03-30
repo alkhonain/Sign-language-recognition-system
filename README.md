@@ -20,11 +20,12 @@ We implemented a neural network model which uses the given dataset to compare th
 
 ### Workflow
 <br><br><p align="center">
-    <img src="images/workflow.jpg" alt="workflow" style="height: 500px; width:500px;"/>
+    <img src="images/workflow.jpg" alt="workflow" style="height: 500px; width:700px;"/>
 </p><br><br>
-### System Difram
+
+### System Digfram 
 <br><br><p align="center">
-    <img src="images/system_digram.jpg" alt="workflow" style="height: 500px; width:500px;"/>
+    <img src="images/system_digram.jpg" alt="workflow" style="height: 900; width:500px;"/>
 </p><br><br>
 
 
