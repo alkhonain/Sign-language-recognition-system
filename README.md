@@ -6,7 +6,7 @@ The main goal of this project is to design, implement and evaluate a model that 
 
 ## Results
 <br><br><p align="center">
-    <vid src="images/model_video.mp4" alt="model video"/>
+    <video src="images/model_video.mp4" alt="model video"/>
 </p><br><br>
 
 
