@@ -6,7 +6,7 @@ The main goal of this project is to design, implement and evaluate a model that 
 
 ## Results
 <br><br><p align="center">
-    ![Alt Text](images/model_video.mp4)
+    https://streamable.com/yug7zm
 </p><br><br>
 
 
