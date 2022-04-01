@@ -5,12 +5,10 @@ The main goal of this project is to design, implement and evaluate a model that 
 </p><br><br>
 
 ## Results
-    https://user-images.githubusercontent.com/91406361/161250359-1859bdeb-413f-4006-9347-c5f6abd44c58.mp4
 
 
 
-
-
+https://user-images.githubusercontent.com/91406361/161250596-e3ad2457-1799-4db5-983e-5864a627d9c6.mp4
 
 
 
