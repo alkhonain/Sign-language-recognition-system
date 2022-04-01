@@ -6,8 +6,12 @@ The main goal of this project is to design, implement and evaluate a model that 
 
 ## Results
 <br><br><p align="center">
-    https://streamable.com/yug7zm
+    https://user-images.githubusercontent.com/91406361/161250359-1859bdeb-413f-4006-9347-c5f6abd44c58.mp4
 </p><br><br>
+
+
+
+
 
 
 
