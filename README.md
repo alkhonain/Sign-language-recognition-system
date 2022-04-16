@@ -4,7 +4,7 @@ The main goal of this project is to design, implement and evaluate a model that 
     <img src="images/image.png" alt="arabic alphabet sign language" style="height: 500px; width:500px;"/>
 </p><br><br>
 
-## Results
+## Demo
 
 
 
